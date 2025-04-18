@@ -1,0 +1,10 @@
+build/
+install/
+log/
+.vscode/
+*.swp
+.cache/
+src/myutils/myutils/test_left.py
+src/myutils/myutils/test_right.py
+src/myutils/myutils/test_small_left.py
+src/myutils/myutils/test_small_right.py
